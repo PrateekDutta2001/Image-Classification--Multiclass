@@ -2,7 +2,7 @@
 
 Multiclass Image classification
 
-Other Detail:
+**Other Detail:**
 
 This project has been developed by Prateek Dutta for the purpose of institutional project.
 
