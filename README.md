@@ -2,6 +2,10 @@
 
 Multiclass Image classification
 
+Approach:- Deep Leaning 
+
+Algorithm:- Convolutional Neural Network
+
 classes are: Cat, Dog, Horse
 
 **Other Detail:**
