@@ -14,6 +14,7 @@ A classification problem including more than two classes, such as classifying a 
 
 ![dog 51](https://user-images.githubusercontent.com/62097113/146429411-e8710bdf-24b8-4212-b120-300fcd7006b5.jpg)
 
+![horse-29](https://user-images.githubusercontent.com/62097113/146429518-19538c0e-7d54-40cc-8e85-fbc165e8c2b9.jpg)
 
 Many approaches are used to solve this problem, such as converting the N number of classes to N number binary columns representing each class. By doing so, we can use a binary classifier for Multi Classification problems. Pandas built-in get_dummies attribute provides you with   this functionality to get a binary representation of each class. 
 
